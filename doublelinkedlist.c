@@ -1,23 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 266
-(no subject)
-Inbox
-
-Lekha Poojary <lekhapoojary702@gmail.com>
-Attachments
-3:35 PM (19 minutes ago)
-to me
-
-
-14
- Attachments
-  •  Scanned by Gmail
 #include<stdio.h>
 #include<stdlib.h>
 struct node
