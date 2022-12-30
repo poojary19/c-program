@@ -1,21 +1,4 @@
 
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
-Enable desktop notifications for Gmail.
-   OK  No thanks
-1 of 266
-(no subject)
-Inbox
-
-Lekha Poojary <lekhapoojary702@gmail.com>
-Attachments
-3:35 PM (22 minutes ago)
-to me
-
-
-
 #include<stdio.h>
 #include<math.h>
 void tower(int n,int source,int temp,int destination)
