@@ -1,11 +1,15 @@
-v#include <stdio.h>
-#include <math.h>
-int main()
-{
-   float num, root;
-   printf("Enter a number: ");
-   scanf("%f", &num);
-   root = sqrt(num);
-   printf("Square root of %.2f = %.2f", num, root);
-   return 0;
+#include<stdio.h>
+int main() {
+    int intType;
+    float floatType;
+    double doubleType;
+    char charType;
+
+    // sizeof evaluates the size of a variable
+    printf("Size of int: %zu bytes\n", sizeof(intType));
+    printf("Size of float: %zu bytes\n", sizeof(floatType));
+    printf("Size of double: %zu bytes\n", sizeof(doubleType));
+    printf("Size of char: %zu byte\n", sizeof(charType));
+    
+    return 0;
 }
